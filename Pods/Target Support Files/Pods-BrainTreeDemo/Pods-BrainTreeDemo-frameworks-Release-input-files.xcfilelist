@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-BrainTreeDemo/Pods-BrainTreeDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Braintree/Braintree.framework
+${PODS_ROOT}/Braintree/Frameworks/CardinalMobile.framework
+${BUILT_PRODUCTS_DIR}/BraintreeDropIn/BraintreeDropIn.framework
